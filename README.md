@@ -1,2 +1,2 @@
-# Practice-mobirise.com-timeplanner
-Jillur class, day-28
+mobirise.com-timeplanner
+Practice Jillur class, day-28
